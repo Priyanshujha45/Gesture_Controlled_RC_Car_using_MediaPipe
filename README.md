@@ -1,0 +1,2 @@
+# Gesture_Controlled_RC_Car_using_MediaPipe
+Computer vision and Embedded
